@@ -19,7 +19,7 @@ public class Demo_Class {
 		 
 		 //InternetExplorerDriver(Capabilities capabilities)
 		 WebDriver driver = new InternetExplorerDriver(capabilities);
-		 
+		//Test 
 	//WebDriver driver = new FirefoxDriver();
 	String baseurl = "https://www.shutterfly.com/";
 	driver.get(baseurl);
